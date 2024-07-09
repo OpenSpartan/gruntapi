@@ -98,4 +98,4 @@ gruntapi store --type exchange
 
 ## Origins
 
-GruntAPI [started](https://web.archive.org/web/20220124204531/https://gruntapi.com/) as a .NET-based wrapper for Halo Infinite. Since then, the library was made private, however the name got transferred to this project, providing Halo Infinite enthusiasts an avenue to query their game data from their favorite terminal application.
+GruntAPI [started](https://web.archive.org/web/20220907215813/https://gruntapi.com/) as a .NET-based wrapper for Halo Infinite. Since then, the library was made private, however the name got transferred to this project, providing Halo Infinite enthusiasts an avenue to query their game data from their favorite terminal application.
