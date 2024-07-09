@@ -18,6 +18,8 @@
 
 GruntAPI is a cross-platform CLI that allows anyone who plays Halo Infinite to query their Halo Infinite data, such as match stats, inventory, battle pass progress, and more.
 
+[📕 **Learn More - Official Documentation**](https://gruntapi.com)
+
 ## Getting started
 
 Before you can query the data, you need to log in:
@@ -35,6 +37,8 @@ gruntapi servicerecord
 This should return the current player's service record. If the call is successful, you are authenticated.
 
 ## Commands
+
+For a full list of commands and capabilities of GruntAPI, refer to the [official documentation](https://gruntapi.com).
 
 ### Get service record
 
