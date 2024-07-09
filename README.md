@@ -13,3 +13,11 @@
 	</p>
 	<br>
 </div>
+
+## Overview
+
+GruntAPI is a cross-platform CLI that allows anyone who plays Halo Infinite to query their Halo Infinite data, such as match stats, inventory, battle pass progress, and more.
+
+## Origins
+
+GruntAPI [started](https://web.archive.org/web/20220124204531/https://gruntapi.com/) as a .NET-based wrapper for Halo Infinite. Since then, the library was made private, however the name got transferred to this project, providing Halo Infinite enthusiasts an avenue to query their game data from their favorite terminal application.
